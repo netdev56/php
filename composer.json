@@ -1,0 +1,15 @@
+{
+    "name": "netde/php",
+    "authors": [
+        {
+            "name": "Manuel",
+            "email": "netdev56@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/"
+        }
+    },
+    "require": {}
+}
